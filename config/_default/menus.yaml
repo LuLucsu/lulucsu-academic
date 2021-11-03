@@ -10,6 +10,12 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: Teaching
+    url: '#Teaching'
+    weight: 30
+  - name: Group
+    url: '#Group'
+    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
