@@ -23,10 +23,10 @@ publication_types: ["2"]
 publication: In *Journal of Algebraic Combinatorics*
 publication_short: In *JACO*
 
-abstract: I have published some papers on distance eigenvalues, graph index and Cayley graphs.
+abstract: In this paper, we give a necessary and sufficient condition for the integrality of Cayley graphs over the dihedral group $D_n=\langle a,b\mid a^n=b^2=1,bab=a^{-1}\rangle$. Moreover, we also obtain some simple sufficient conditions for the integrality of Cayley graphs over $D_n$ in terms of the Boolean algebra of $\langle a\rangle$, from which we find infinite classes of integral Cayley graphs over $D_n$. In particular, we completely determine all integral Cayley graphs over the dihedral group $D_p$ for a prime $p$.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Give a necessary and sufficient condition for the integrality of Cayley graphs over dihedral groups.
 
 tags: []
 
