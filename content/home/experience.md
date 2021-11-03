@@ -26,7 +26,7 @@ experience:
     company: Central South University
     company_url: 'www.csu.edu.cn'
     company_logo: org-gc
-    location: California
+    location: Chang Sha
     date_start: '2019-06-24'
     date_end: ''
     description: |2-
