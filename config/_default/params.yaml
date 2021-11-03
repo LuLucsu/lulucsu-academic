@@ -34,7 +34,7 @@ office_hours:
   - 'Working days 10:00 to 19:00'
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: WeChat
+  - icon: weixin
     icon_pack: fas
     name: WeChat Me
     link: 'https://twitter.com/Twitter'
