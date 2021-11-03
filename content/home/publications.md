@@ -23,10 +23,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: '1'
-    category: '222'
-    publication_type: '2rwerw'
-    author: 'sf'
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: true
 design:
   # Choose a view for the listings:
