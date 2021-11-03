@@ -72,4 +72,4 @@ highlight_name: true
 
 Lu Lu is a lecturer of school of mathematics and statistics at Central South University. His research interests include Algebraic Graph Theory, Spectral Theory and Group Theory.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
