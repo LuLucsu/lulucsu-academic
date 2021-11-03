@@ -1,3 +1,3 @@
+---
 course: Abstract algebra
-
 --
