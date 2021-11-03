@@ -45,13 +45,13 @@ social:
   link: '/#contact'
 - icon: phone
   icon_pack: fas
-  link: 13070426395
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '/#contact'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3138-7546
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/LuLucsu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
