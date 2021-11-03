@@ -20,27 +20,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: lulumath@csu.edu.cn
+phone: 13070426395
+wechat: lulu549588
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  street: 932, South Lushan Road
+  city: Chang Sha
+  region: Hunan
+  postcode: '410083'
+  country: China
+  country_code: CN
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Working days 10:00 to 19:00'
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
+  - icon: WeChat
+    icon_pack: fas
+    name: WeChat Me
     link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
