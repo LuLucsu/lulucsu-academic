@@ -6,7 +6,7 @@ title: Lu Lu
 superuser: true
 
 # Role/position/tagline
-role: Lecturer of Mathematics
+role: Lecturer of Mathematics, Master's supervisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Lu Lu is a lecturer of school of mathematics and statistics at Central South University. His research interests include Algebraic Graph Theory, Spectral Theory and Group Theory.
+Lu Lu is a lecturer of school of mathematics and statistics at Central South University. His research interests include Algebraic Graph Theory, Spectral Theory and Group Theory. Welcome to everyone who is interested in graph theory to join our team.
+
+欢迎对图谱、图论、代数感兴趣的学生报考我的硕士, 加入到我们团队中.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
