@@ -1,12 +1,11 @@
 ---
-title: "On 2-equitable graphs"
+title: "My research papers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Qiongxiang Huang, Lihua Feng
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -21,17 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Linear and Multilinear Algebra*
-publication_short: In *LAMA*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Let $\Pi$ be an equitable partition of a graph G with k cells. If G has no
-equitable partition with fewer cells than $\Pi$, then $\Pi$ is called a minimal
-partition of G and G is called a k-equitable graph. It is clear that 1-
-equitable graphs are regular graphs. In this paper, we investigate 2-
-equitable graphs with four distinct eigenvalues.
+abstract: I have published some papers on distance eigenvalues, graph index and Cayley graphs.
 
 # Summary. An optional shortened abstract.
-summary: Define k-equitable graphs and inverstigate 2-equitable graphs with four distinct eigenvalues.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
