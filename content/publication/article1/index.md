@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Applied Mathematics and Computation*
+publication_short: In *AMC*
 
 abstract: I have published some papers on distance eigenvalues, graph index and Cayley graphs.
 
