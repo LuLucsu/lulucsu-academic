@@ -29,7 +29,7 @@ abstract: In this paper, we completely characterize the graphs with third larges
 
 
 # Summary. An optional shortened abstract.
-summary: Determine all connected graphs with the second distance eigenvalue not greater than -1 and smallest one not less than $-3$.
+summary: Determine all connected graphs with the second distance eigenvalue not greater than -1 and smallest one not less than -3.
 
 tags: []
 
