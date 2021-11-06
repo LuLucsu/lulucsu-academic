@@ -26,8 +26,7 @@ publication_types: ["2"]
 publication: In *Discrete Mathematics*
 publication_short: In *DM*
 
-abstract: Let G be a connected graph with vertex set V(G) and edge set E(G). For a subset S of V(G), the Steiner distance d(S) of S is the minimum size of a connected subgraph whose vertex set contains ∑S. For an integer k with 2 ≤ k ≤ n − 1, the Steiner k-Wiener index SWk(G) is S⊆V(G),|S|=k d(S). In this paper, we introduce some transformations for trees that do not
-increase their Steiner k-Wiener index for 2 ≤ k ≤ n − 1. Using these transformations, we get a sharp lower bound on Steiner k-Wiener index for trees with given diameter, and obtain the corresponding extremal graph as well.
+abstract: We get a sharp lower bound on Steiner k-Wiener index for trees with given diameter, and obtain the corresponding extremal graph as well.
 
 
 # Summary. An optional shortened abstract.
