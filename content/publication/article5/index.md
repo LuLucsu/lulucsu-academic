@@ -1,15 +1,14 @@
 ---
-title: "Distance integral generalized wheel graphs"
+title: "On the extensional eigenvalues of graphs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Junying Lu
-- Weijun Liu
+- Tao Cheng, Lihua Feng, Weijun Liu
 - admin
 
-date: "2022-07-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *Discrete Mathematics*
-publication_short: Submitted to *DM*
+publication: In *Applied Mathematics and Computation*
+publication_short: In *AMC*
 
-abstract: For positive integers $a$, $m$ and $n$, the graph $aK_m\nabla C_n$ is called the generalized wheel graph. A graph is called distance integral if all eigenvalues of its distance matrix are integers. In this paper, we obtain all distance integral generalized wheel graphs, which consist of an infinity class of graphs and $13$ scattered graphs. 
+abstract: I have published some papers on distance eigenvalues, graph index and Cayley graphs.
 
 # Summary. An optional shortened abstract.
-summary: Completely determine all generalized wheel graphs with integral distance eigenvalues.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 

@@ -1,14 +1,14 @@
 ---
-title: "On the extensional eigenvalues of graphs"
+title: "A short note on the sum of k largest distance eigenvalues of bipartite graphs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tao Cheng, Lihua Feng, Weijun Liu
+- Junying Lu
 - admin
 
-date: "2021-07-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Mathematics and Computation*
-publication_short: In *AMC*
+publication: Submitted to *Discrete Applied Mathematics*
+publication_short: Submitted to *DAM*
 
-abstract: I have published some papers on distance eigenvalues, graph index and Cayley graphs.
+abstract: Let $G$ be a connected graph on $n$ vertices and $k\ge 1$. We prove that the sum of the first two distance eigenvalues is not greater than $2n-4$, which confirm a conjecture proposed by Lin.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Prove the sum of the first two distance eigenvalues is not less than 2n-4.
 
 tags: []
 
