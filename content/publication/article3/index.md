@@ -1,13 +1,15 @@
 ---
-title: "My research papers"
+title: "Mixed graphs with smallest eigenvalue greater than $-\sqrt{3}$"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Junying Lu
+- Weijun Liu
 - admin
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Submitted to *Linear Algebra and Its Applications*
+publication_short: Submitted to *LAA*
 
-abstract: I have published some papers on distance eigenvalues, graph index and Cayley graphs.
+abstract: In this paper, we determine the underlying graphs of the mixed graphs with smallest Hermitian eigenvalue greater than $-\sqrt{3}$. Furthermore, we characterize all mixed graphs on $n\ge 11$ vertices with smallest Hermitian eigenvalue greater than $-\sqrt{3}$. The mixed graphs on $n\le 10$ vertices with smallest Hermitian eigenvalue greater than $-\sqrt{3}$ could be also obtained easily with the help of computer because their underlying graphs are determined. Roughly speaking, we completely determine the mixed graphs with smallest Hermitian eigenvalue greater than $-\sqrt{3}$.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Determine all connected mixed graphs whose smallest eigenvalues greater than 1.73.
 
 tags: []
 
