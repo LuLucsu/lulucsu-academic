@@ -25,11 +25,7 @@ publication_types: ["2"]
 publication: In *Linear and Multilinear Algebra*
 publication_short: In *LAMA*
 
-abstract: Let \Pi be an equitable partition of a graph G with k cells. If G has no
-equitable partition with fewer cells than \Pi, then \Pi is called a minimal
-partition of G and G is called a k-equitable graph. It is clear that 1-
-equitable graphs are regular graphs. In this paper, we investigate 2-
-equitable graphs with four distinct eigenvalues.
+abstract: Let \Pi be an equitable partition of a graph G with k cells. If G has no equitable partition with fewer cells than \Pi, then \Pi is called a minimal partition of G and G is called a k-equitable graph. It is clear that 1-equitable graphs are regular graphs. In this paper, we investigate 2-equitable graphs with four distinct eigenvalues.
 
 # Summary. An optional shortened abstract.
 summary: Define k-equitable graphs and investigate 2-equitable graphs with 4 distinct eigenvalues.
