@@ -26,9 +26,7 @@ publication_types: ["0"]
 publication: In *Discrete Applied Mathematics*
 publication_short: In *DAM*
 
-abstract: The eccentricity matrix E(G) of a graph G is derived from the distance matrix by keeping for each row and each column only the largest distances and leaving zeros in the
-remaining ones. The E-eigenvalues of a graph G are those of its eccentricity matrix E(G). The E-spectrum of G is the multiset of its E-eigenvalues, where the largest one is the
-E-spectral radius. In this paper, we proceed to study the algebraic properties of the E-spectrum. In particular, we give a condition to connected graphs with cut vertices so that their eccentricity matrices are irreducible. The latter partially answers the problem given in Wang et al. (2018). We determine the lower and upper bounds for the Espectral radius of graphs, and we identify the corresponding extremal graphs. Finally, we investigate the least E-eigenvalue of graphs, and list the E-eigenvalues of trees with order 8.
+abstract: The eccentricity matrix E(G) of a graph G is derived from the distance matrix by keeping for each row and each column only the largest distances and leaving zeros in the remaining ones. The E-eigenvalues of a graph G are those of its eccentricity matrix E(G). The E-spectrum of G is the multiset of its E-eigenvalues, where the largest one is the E-spectral radius. In this paper, we proceed to study the algebraic properties of the E-spectrum. In particular, we give a condition to connected graphs with cut vertices so that their eccentricity matrices are irreducible. The latter partially answers the problem given in Wang et al. (2018). We determine the lower and upper bounds for the Espectral radius of graphs, and we identify the corresponding extremal graphs. Finally, we investigate the least E-eigenvalue of graphs, and list the E-eigenvalues of trees with order 8.
 
 # Summary. An optional shortened abstract.
 summary: Give a condition to connected graphs with cut vertices so that their eccentricity matrices are irreducible. Determine the lower and upper bounds for the Espectral radius of graphs, and we identify the corresponding extremal graphs
