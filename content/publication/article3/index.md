@@ -22,8 +22,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Linear Algebra and Its Applications*
-publication_short: *LAA*
+publication: In *Linear Algebra and Its Applications*
+publication_short: In *LAA*
 
 abstract: In this paper, we determine the underlying graphs of the mixed graphs with smallest Hermitian eigenvalue greater than -\sqrt{3}. Furthermore, we characterize all mixed graphs on n\ge 11 vertices with smallest Hermitian eigenvalue greater than -\sqrt{3}. The mixed graphs on n\le 10 vertices with smallest Hermitian eigenvalue greater than -\sqrt{3} could be also obtained easily with the help of computer because their underlying graphs are determined. Roughly speaking, we completely determine the mixed graphs with smallest Hermitian eigenvalue greater than -\sqrt{3}.
 
