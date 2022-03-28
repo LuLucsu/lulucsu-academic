@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *Discrete Applied Mathematics*
-publication_short: Submitted to *DAM*
+publication: In *Discrete Applied Mathematics*
+publication_short: In *DAM*
 
 abstract: Let $G$ be a connected graph on $n$ vertices and $k\ge 1$. We prove that the sum of the first two distance eigenvalues is not greater than $2n-4$, which confirm a conjecture proposed by Lin.
 
