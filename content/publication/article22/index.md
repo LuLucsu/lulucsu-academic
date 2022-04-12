@@ -24,11 +24,11 @@ publication_types: ["0"]
 publication: In *Discrete Mathematics*
 publication_short: In *DM*
 
-abstract:  
+abstract:  aaa
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: aaa
 
 tags: []
 
