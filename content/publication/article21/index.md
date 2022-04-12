@@ -23,8 +23,8 @@ publishDate: "2017-08-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *MATCH Commun. Math. Comput. Chem.*
-publication_short: In *MATCH*
+publication: In *Linear Algebra and Its Applications.*
+publication_short: In *LAA*
 
 abstract:  Completely determine the graphs whose largest distance Laplacian eigenvalue has multiplicity n-3.
 
