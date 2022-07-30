@@ -10,11 +10,13 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
+  - name: Posts
+    url:'#post'
   - name: Teaching
     url: '#teaching'
     weight: 30
-  - name: Group
-    url: '#group'
+  - name: Team
+    url: '#team'
     weight: 40
   - name: Publications
     url: '#featured'
