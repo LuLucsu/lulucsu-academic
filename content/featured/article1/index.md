@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: Submitted 
 publication_short: To appear
 
-abstract: The splitting field SF(Γ) of a mixed graph Γ is the smallest field extension of Q which contains all eigenvalues of the Hermitian adjacency matrix of Γ. The extension degree [SF(Γ):Q] is called the algebraic degree of Γ. In this paper, we determine the splitting fields and algebraic degrees of mixed Cayley graphs over abelian groups. This generalizes the main results of [K. Mönius, Splitting fields of spectra of circulant graphs, J. Algebra 594(15) (2022) 154--169] and [M. Kadyan, B. Bhattacharjya, Integral mixed Cayley graphs over abelian groups, Electron. J. Combin. 28(4) (2021) \#P4.46]. 
+abstract: The splitting field $SF(\Gamma)$ of a mixed graph $\Gamma$ is the smallest field extension of Q which contains all eigenvalues of the Hermitian adjacency matrix of Γ. The extension degree [SF(Γ):Q] is called the algebraic degree of Γ. In this paper, we determine the splitting fields and algebraic degrees of mixed Cayley graphs over abelian groups. This generalizes the main results of [K. Mönius, Splitting fields of spectra of circulant graphs, J. Algebra 594(15) (2022) 154--169] and [M. Kadyan, B. Bhattacharjya, Integral mixed Cayley graphs over abelian groups, Electron. J. Combin. 28(4) (2021) \#P4.46]. 
 # Summary. An optional shortened abstract.
 
 summary: Get the splitting fields of mixed Cayley graphs over abelian groups.
