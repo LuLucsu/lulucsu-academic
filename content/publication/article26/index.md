@@ -1,15 +1,16 @@
 ---
-title: "Mixed graphs with smallest eigenvalue greater than $-\frac{\sqrt{5}+1}{2}$"
+title: "The access time of random walks on trees with given partition"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Lihua Feng
+- Weijun Liu
 - admin
-- Zhenzhen Lou
-- Qiongxiang Huang
-
-date: "2022-08-20T00:00:00Z"
+- Wei Wang
+- Guihai Yu
+date: "2022-06-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +23,8 @@ publishDate: "2017-08-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Discrete Mathematics*
-publication_short: In *DM*
+publication: In *Applied Mathematics and Computation*
+publication_short: In *AMC*
 
 abstract:  aaa
 
