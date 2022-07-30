@@ -8,17 +8,17 @@ authors:
 - admin
 - Xueyi Huang, Katja Monius
 
-date: "2017-08-20T00:00:00Z"
+date: "2022-07-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-08-20T00:00:00Z"
+publishDate: "2022-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Submitted 
@@ -26,7 +26,8 @@ publication_short: To appear
 
 abstract: The splitting field SF(Γ) of a mixed graph Γ is the smallest field extension of Q which contains all eigenvalues of the Hermitian adjacency matrix of Γ. The extension degree [SF(Γ):Q] is called the algebraic degree of Γ. In this paper, we determine the splitting fields and algebraic degrees of mixed Cayley graphs over abelian groups. This generalizes the main results of [K. Mönius, Splitting fields of spectra of circulant graphs, J. Algebra 594(15) (2022) 154--169] and [M. Kadyan, B. Bhattacharjya, Integral mixed Cayley graphs over abelian groups, Electron. J. Combin. 28(4) (2021) \#P4.46]. 
 # Summary. An optional shortened abstract.
-summary: Give a necessary and sufficient condition for the integrality of Cayley graphs over dihedral groups.
+
+summary: Get the splitting fields of mixed Cayley graphs over abelian groups.
 
 tags: []
 
