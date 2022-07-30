@@ -1,9 +1,9 @@
 ---
-title: Welcome to my group
-subtitle: Welcome Xinhui Duan to Central South University and the world of graph theory.
+title: Congratulation
+subtitle: Congratulation to Junying Lu.
 
 # Summary for listings and search engines
-summary: Xinhui Duan will come to my group at next seminar. Welcome.
+summary: Junying Lu will go to Nanjing University to study for a Ph.D.
 
 # Link this post with a project
 projects: []
@@ -33,14 +33,13 @@ authors:
 
 
 tags:
-- Academic
-- 开源
+- News
 
 categories:
-- Detail of my group
+- People in my group
 ---
 
- Overview
+ ##Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
