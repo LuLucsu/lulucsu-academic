@@ -41,4 +41,4 @@ categories:
 
  About Xinhui Duan
 
-Xinhui Duan
+Xinhui Duan, 21 years old, and graduated from Hubei University of Economics. A sunny girl like sports and drinking coffee.

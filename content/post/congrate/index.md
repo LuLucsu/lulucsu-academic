@@ -40,4 +40,4 @@ categories:
 ---
 About Junying Lu
 
- Junying Lu 
+Junying Lu graduated from the School of Mathematics and Statistics, Central South University with a master's degree and will go to Nanjing University to study for a Ph.D. During her Master's period, her research direction is Algebraic Combination and Graph Theory, especially in Spectral Graph Theory. She have already published four academic papers on Spectral Graph Theory.
