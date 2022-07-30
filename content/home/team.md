@@ -1,5 +1,8 @@
 ---
-title: Group
+widget: blank
+headless: true
+
+title: Team
 summary: 
 date: "2018-06-28T00:00:00Z"
 weight: 80
