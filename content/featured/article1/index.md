@@ -1,13 +1,12 @@
 ---
-title: "The graphs with exactly two distance eigenvalues
-different from −1 and −3"
+title: "Splitting fields of mixed Cayley graphs over abelian groups"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Qiongxiang Huang, Xueyi Huang
+- Xueyi Huang, Katja Monius
 
 date: "2017-08-20T00:00:00Z"
 doi: ""
@@ -22,14 +21,12 @@ publishDate: "2017-08-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Algebraic Combinatorics*
-publication_short: In *JACO*
+publication: Submitted 
+publication_short: To appear
 
-abstract: In this paper, we completely characterize the graphs with third largest distance eigenvalue at most $-1$ and smallest distance eigenvalue at least $-3$. In particular, we determine all graphs whose distance matrices have exactly two eigenvalues (counting multiplicity) different from $-1$ and $-3$. It turns out that such graphs consist of three infinite classes, and all of them are determined by their distance spectra. We also show that the friendship graph is determined by its distance spectrum.
-
-
+abstract: The splitting field SF(Γ) of a mixed graph Γ is the smallest field extension of Q which contains all eigenvalues of the Hermitian adjacency matrix of Γ. The extension degree [SF(Γ):Q] is called the algebraic degree of Γ. In this paper, we determine the splitting fields and algebraic degrees of mixed Cayley graphs over abelian groups. This generalizes the main results of [K. Mönius, Splitting fields of spectra of circulant graphs, J. Algebra 594(15) (2022) 154--169] and [M. Kadyan, B. Bhattacharjya, Integral mixed Cayley graphs over abelian groups, Electron. J. Combin. 28(4) (2021) \#P4.46]. 
 # Summary. An optional shortened abstract.
-summary: Determine all connected graphs with the second distance eigenvalue not greater than -1 and smallest one not less than -3.
+summary: Give a necessary and sufficient condition for the integrality of Cayley graphs over dihedral groups.
 
 tags: []
 
