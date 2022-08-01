@@ -16,11 +16,11 @@ header:
 
 ---
 - Supervisor 
-  -- Prof. Qiongxiang Huang, Xinjiang University
+  - Prof. Qiongxiang Huang, Xinjiang University
 - Team Leaders
-  -- Prof. Weijun Liu and Prof. Lihua Feng, Central South University
+  - Prof. Weijun Liu and Prof. Lihua Feng, Central South University
 - M.S. Students 
-  -- Junying Lu
+  - Junying Lu
 - Academic Brothers and Sisters: 
   - Jianfeng Wang, Shandong University of Technology
   - Fenjin Liu, Changan University
