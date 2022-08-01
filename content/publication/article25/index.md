@@ -1,5 +1,5 @@
 ---
-title: "Mixed graphs with smallest eigenvalue greater than $-\frac{\sqrt{5}+1}{2}$"
+title: "Mixed graphs with smallest eigenvalue greater than -1.62"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -1,5 +1,5 @@
 ---
-title: "The signless p-Laplacian spectral radius of graphs with given matching number$"
+title: "The signless p-Laplacian spectral radius of graphs with given matching number"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
