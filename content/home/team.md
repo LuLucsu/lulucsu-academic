@@ -15,15 +15,15 @@ header:
   image: "1.jpg"
 
 ---
-- Supervisor: Qiongxiang Huang, Xinjiang University
-  --
-- Group Leaders: Weijun Liu and Lihua Feng, Central South University
-  -- 
-- M.S. Student: Junying Lu
-  --
+- Supervisor 
+  -- Prof. Qiongxiang Huang, Xinjiang University
+- Team Leaders
+  -- Prof. Weijun Liu and Prof. Lihua Feng, Central South University
+- M.S. Students 
+  -- Junying Lu
 - Academic Brothers and Sisters: 
   - Jianfeng Wang, Shandong University of Technology
   - Fenjin Liu, Changan University
   - Fei Wen, Lanzhou Jiaotong University
   - Xueyi Huang, East China University of Science and Technology
-  - Zhenzhen Lou, Shanghai University
+  - Zhenzhen Lou, Xinjiang University
