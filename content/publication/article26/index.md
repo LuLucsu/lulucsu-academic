@@ -1,15 +1,15 @@
 ---
-title: "The access time of random walks on trees with given partition"
+title: "The signless p-Laplacian spectral radius of graphs with given matching number$"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Zhouyang Chen
 - Lihua Feng
 - Weijun Liu
 - admin
-- Wei Wang
-- Guihai Yu
+
 date: "2022-09-20T00:00:00Z"
 doi: ""
 
@@ -20,11 +20,11 @@ publishDate: "2017-08-20T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Mathematics and Computation*
-publication_short: In *AMC*
+publication: In *Linear and Multilinear Algebra*
+publication_short: In *LAMA*
 
 abstract:  aaa
 
