@@ -6,7 +6,7 @@ title: Lu Lu
 superuser: true
 
 # Role/position/tagline
-role: Lecturer of Mathematics, Master's supervisor
+role: Associate Professor, Master's supervisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
