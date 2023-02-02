@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Lu Lu is a lecturer of school of mathematics and statistics at Central South University. His research interests include Algebraic Graph Theory, Spectral Theory and Group Theory. Welcome to everyone who is interested in graph theory to join our team.
+Lu Lu is an associate professor of the school of mathematics and statistics at Central South University. His research interests include Algebraic Graph Theory, Spectral Theory, and Group Theory. Welcome to everyone who is interested in graph theory to join our team.
 
 欢迎对图谱、图论、代数感兴趣的学生报考我的硕士, 加入到我们团队中.
 
