@@ -31,7 +31,7 @@ experience:
     date_end: ''
   - title: Lecturer
     company: Central South University
-    company_url: 'www.csu.edu.cn'
+    company_url: 'http://www.csu.edu.cn'
     company_logo: org-gc
     location: Chang Sha
     date_start: '2019-06-24'
