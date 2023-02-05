@@ -37,12 +37,6 @@ experience:
     date_start: '2019-06-24'
     date_end: '2022-09-30'
     description: |2-
-        Teaching:
-        
-        * Linear Algebra
-        * Abstract Algebra
-        * Graph Theory
-        
 
 design:
   columns: '2'
