@@ -17,13 +17,13 @@ header:
 ---
 
 - Course: Abstract Algebra
-  - terms: 2020--2021,2021--2022
+  - terms: 2020--2021,2021--2022, 2022--2023
   - text book: Lu et al., Absctract Algebra 
 
-- Course: Graph Theory (graduated students)
-  - terms: 2019--2020,2020-2021,2021-2022
+- Course: Graph Theory (graduated students/undergraduated students)
+  - terms: 2019--2020,2020-2021,2021-2022,2022--2023
   - text book: D. West, Introduction to Graph Theory
 
 - Course: Linear Algebra
-  - terms: 2020--2021
+  - terms: 2020--2021, 2022--2023
   - text book: Yang et al., Linear Algebra
