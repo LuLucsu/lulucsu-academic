@@ -21,9 +21,11 @@ header:
   - Prof. Weijun Liu and Prof. Lihua Feng, Central South University
 - M.S. Students 
   - Junying Lu
+  - Yueli Han
+  - Xinhui Duan
 - Academic Brothers and Sisters: 
   - Jianfeng Wang, Shandong University of Technology
   - Fenjin Liu, Changan University
   - Fei Wen, Lanzhou Jiaotong University
   - Xueyi Huang, East China University of Science and Technology
-  - Zhenzhen Lou, Xinjiang University
+  - Zhenzhen Lou, University of Shanghai for Science and Technology
