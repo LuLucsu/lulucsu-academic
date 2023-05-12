@@ -41,4 +41,4 @@ categories:
 
  About Shiqi Wang
 
-Shiqi Wang, from Hunan province of China. love math, love life.
+Shiqi Wang, born in Hunan province of China on 2001. Persuing Master of Mathematics at CSU. love math,love life.
