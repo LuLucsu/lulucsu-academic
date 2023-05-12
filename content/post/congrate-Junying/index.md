@@ -3,7 +3,7 @@ title: Congratulation
 subtitle: Congratulation to Junying Lu. 
 
 # Summary for listings and search engines
-summary: Junying Lu will go to Nanjing University to study for a Ph.D. Congratulation !
+summary: Junying Lu has been accepted to study for a Ph.D. at Nanjing University starting in the autumn semester of 2022. Congratulations!
 
 # Link this post with a project
 projects: []

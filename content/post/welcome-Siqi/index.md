@@ -3,7 +3,7 @@ title: Welcome to my group
 subtitle: Welcome Shiqi Wang to Central South University and the world of graph theory.
 
 # Summary for listings and search engines
-summary: Shiqi Wang will come to my group at next seminar. Welcome!
+summary: Shiqi Wang will join my group in the autumn seminar of 2023. Welcome!
 
 # Link this post with a project
 projects: []

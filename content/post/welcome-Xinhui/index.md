@@ -3,7 +3,7 @@ title: Welcome to my group
 subtitle: Welcome Xinhui Duan to Central South University and the world of graph theory.
 
 # Summary for listings and search engines
-summary: Xinhui Duan will come to my group at next seminar. Welcome.
+summary: Xinhui Duan will join my group in the autumn seminar of 2022. Welcome.
 
 # Link this post with a project
 projects: []
