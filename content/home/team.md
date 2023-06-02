@@ -16,16 +16,18 @@ header:
 
 ---
 - Supervisor 
-  - Prof. Qiongxiang Huang, Xinjiang University
+  - Prof. Qiongxiang(黄琼湘), Xinjiang University
 - Team Leaders
-  - Prof. Weijun Liu and Prof. Lihua Feng, Central South University
+  - Prof. Weijun Liu(刘伟俊) and Prof. Lihua Feng(冯立华), Central South University
 - M.S. Students 
-  - Junying Lu
-  - Yueli Han
-  - Xinhui Duan
+  - Junying Lu(卢俊颖)
+  - Yueli Han(韩月丽)
+  - Xinhui Duan(段新慧)
+  - Shiqi Wang(王诗琪)
 - Academic Brothers and Sisters: 
-  - Jianfeng Wang, Shandong University of Technology
-  - Fenjin Liu, Changan University
-  - Fei Wen, Lanzhou Jiaotong University
-  - Xueyi Huang, East China University of Science and Technology
-  - Zhenzhen Lou, University of Shanghai for Science and Technology
+  - Jianfeng Wang(王建锋), Shandong University of Technology
+  - Fenjin Liu(刘奋进), Changan University
+  - Zhenzhen Lou(娄贞贞), University of Shanghai for Science and Technology
+  - Fei Wen(文飞), Lanzhou Jiaotong University
+  - Xueyi Huang(黄雪毅), East China University of Science and Technology
+  

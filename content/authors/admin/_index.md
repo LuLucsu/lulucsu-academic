@@ -19,7 +19,7 @@ bio: My research interests include algebraic graph theory, spectral graph theory
 # Interests to show in About widget
 interests:
 - Spectral Graph Theory
-- Cayley Graphs
+- Extremal Graph Theory
 - Representation Theory
 
 # Education to show in About widget
