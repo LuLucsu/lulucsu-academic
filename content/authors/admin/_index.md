@@ -6,7 +6,7 @@ title: Lu Lu(鲁卢)
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor, Master's supervisor
+role: Associate Professor, PhD Supervisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
